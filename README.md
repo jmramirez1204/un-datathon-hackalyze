@@ -1,6 +1,6 @@
 # UN Datathon - Hackalyze
 
-Welcome to the **UN Datathon - Hackalyze** repository! This project was created for a data analysis hackathon organized by Universidad Nacional de Colombia. It includes data preparation, analysis, and visualization tools for discovering insights from publicly available datasets. The main goal is to leverage data to provide actionable insights on relevant social, economic, and environmental topics.
+Welcome to the **UN Datathon - Hackalyze** repository! This project was created for a data analysis hackathon organized by United Nations. It includes data preparation, analysis, and visualization tools for discovering insights from publicly available datasets. The main goal is to leverage data to provide actionable insights on relevant social, economic, and environmental topics.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -18,6 +18,7 @@ This repository contains the code and analysis produced for the **UN Datathon**.
 - Socioeconomic indicators
 - Environmental impact
 - Public health
+- Tourism
 
 Using data science and machine learning tools, we aim to provide a comprehensive analysis of these issues and present our findings through data visualizations.
 
